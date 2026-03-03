@@ -87,7 +87,7 @@ Power BI connects to structured analytical views instead of raw tables.
 ## Dashboard Screenshots
 
 ### Executive Overview
-![Executive Overview](Screenshot (530).png)
+![Executive Overview](https://github.com/priiyanka-b/workforce_anlaytics/blob/2cc538803b972d9ffea693b3ed775635e383cb69/Screenshot%20(530).png)
 
 ### Workforce Experience Analysis
 ![Workforce Experience](Screenshot(532).png)
