@@ -90,7 +90,7 @@ Power BI connects to structured analytical views instead of raw tables.
 ![Executive Overview](https://github.com/priiyanka-b/workforce_anlaytics/blob/2cc538803b972d9ffea693b3ed775635e383cb69/Screenshot%20(530).png)
 
 ### Workforce Experience Analysis
-![Workforce Experience](Screenshot(532).png)
+![Workforce Experience](https://github.com/priiyanka-b/workforce_anlaytics/blob/d916fd78297de2f7604f2f41d96cb68daf1c4ad1/Screenshot%20(532).png)
 
 ---
 
